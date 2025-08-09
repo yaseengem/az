@@ -1,0 +1,519 @@
+  - id: -  name: Mathematics  path: CBSE/Mathematics
+    - id: cl3  name: Mathematics Class 3  path: CBSE/Mathematics/Class 3
+      - id: cl3_ch1  name: Where to Look From  path: CBSE/Mathematics/Class 3/Chapter 1
+        - id: cl3_ch1_t1  name: Observation skills  path: CBSE/Mathematics/Class 3/Chapter 1/Topic 1
+        - id: cl3_ch1_t2  name: Looking around and describing positions  path: CBSE/Mathematics/Class 3/Chapter 1/Topic 2
+        - id: cl3_ch1_t3  name: Looking around and describing positions  path: CBSE/Mathematics/Class 3/Chapter 1/Topic 3
+      - id: cl3_ch2  name: Fun with Numbers  path: CBSE/Mathematics/Class 3/Chapter 2
+        - id: cl3_ch2_t1  name: Number names and numerals up to 999  path: CBSE/Mathematics/Class 3/Chapter 2/Topic 1
+        - id: cl3_ch2_t2  name: Comparing and ordering numbers  path: CBSE/Mathematics/Class 3/Chapter 2/Topic 2
+        - id: cl3_ch2_t3  name: Place value and face value  path: CBSE/Mathematics/Class 3/Chapter 2/Topic 3
+      - id: cl3_ch3  name: Give and Take  path: CBSE/Mathematics/Class 3/Chapter 3
+        - id: cl3_ch3_t1  name: Addition of 3-digit numbers  path: CBSE/Mathematics/Class 3/Chapter 3/Topic 1
+        - id: cl3_ch3_t2  name: Subtraction of 3-digit numbers  path: CBSE/Mathematics/Class 3/Chapter 3/Topic 2
+        - id: cl3_ch3_t3  name: Word problems involving addition and subtraction  path: CBSE/Mathematics/Class 3/Chapter 3/Topic 3
+      - id: cl3_ch4  name: Long and Short  path: CBSE/Mathematics/Class 3/Chapter 4
+        - id: cl3_ch4_t1  name: Measuring length using standard units (cm, m)  path: CBSE/Mathematics/Class 3/Chapter 4/Topic 1
+        - id: cl3_ch4_t2  name: Comparing lengths  path: CBSE/Mathematics/Class 3/Chapter 4/Topic 2
+        - id: cl3_ch4_t3  name: Estimating length  path: CBSE/Mathematics/Class 3/Chapter 4/Topic 3
+      - id: cl3_ch5  name: Shapes and Designs  path: CBSE/Mathematics/Class 3/Chapter 5
+        - id: cl3_ch5_t1  name: Identifying and Drawing Basic Shapes  path: CBSE/Mathematics/Class 3/Chapter 5/Topic 1
+        - id: cl3_ch5_t2  name: Exploring Patterns and Designs  path: CBSE/Mathematics/Class 3/Chapter 5/Topic 2
+      - id: cl3_ch6  name: Fun with Give and Take  path: CBSE/Mathematics/Class 3/Chapter 6
+        - id: cl3_ch6_t1  name:   path: CBSE/Mathematics/Class 3/Chapter 6/Topic 1
+        - id: cl3_ch6_t2  name: Simple Transactions and Calculations  path: CBSE/Mathematics/Class 3/Chapter 6/Topic 2
+      - id: cl3_ch7  name: Time Goes On...  path: CBSE/Mathematics/Class 3/Chapter 7
+        - id: cl3_ch7_t1  name: Understanding Time: Clocks and Calendars  path: CBSE/Mathematics/Class 3/Chapter 7/Topic 1
+        - id: cl3_ch7_t2  name: Reading Clocks and Calendars  path: CBSE/Mathematics/Class 3/Chapter 7/Topic 2
+      - id: cl3_ch8  name: Who is Heavier?  path: CBSE/Mathematics/Class 3/Chapter 8
+        - id: cl3_ch8_t1  name: Comparing Weights  path: CBSE/Mathematics/Class 3/Chapter 8/Topic 1
+        - id: cl3_ch8_t2  name: Introduction to Measurement of Mass  path: CBSE/Mathematics/Class 3/Chapter 8/Topic 2
+      - id: cl3_ch9  name: How Many Times?  path: CBSE/Mathematics/Class 3/Chapter 9
+        - id: cl3_ch9_t1  name: Introduction to multiplication as repeated addition  path: CBSE/Mathematics/Class 3/Chapter 9/Topic 1
+        - id: cl3_ch9_t2  name: Multiplication tables  path: CBSE/Mathematics/Class 3/Chapter 9/Topic 2
+        - id: cl3_ch9_t3  name: Simple word problems  path: CBSE/Mathematics/Class 3/Chapter 9/Topic 3
+      - id: cl3_ch10  name: Play with Patterns  path: CBSE/Mathematics/Class 3/Chapter 10
+        - id: cl3_ch10_t1  name: Recognizing number and shape patterns  path: CBSE/Mathematics/Class 3/Chapter 10/Topic 1
+        - id: cl3_ch10_t2  name: Creating and extending patterns  path: CBSE/Mathematics/Class 3/Chapter 10/Topic 2
+      - id: cl3_ch11  name: Jugs and Mugs  path: CBSE/Mathematics/Class 3/Chapter 11
+        - id: cl3_ch11_t1  name: Understanding Capacity and Volume  path: CBSE/Mathematics/Class 3/Chapter 11/Topic 1
+        - id: cl3_ch11_t2  name:   path: CBSE/Mathematics/Class 3/Chapter 11/Topic 2
+      - id: cl3_ch12  name: Can We Share?  path: CBSE/Mathematics/Class 3/Chapter 12
+        - id: cl3_ch12_t1  name: Introduction to division as sharing equally  path: CBSE/Mathematics/Class 3/Chapter 12/Topic 1
+        - id: cl3_ch12_t2  name: Simple division word problems  path: CBSE/Mathematics/Class 3/Chapter 12/Topic 2
+      - id: cl3_ch13  name: Smart Charts!  path: CBSE/Mathematics/Class 3/Chapter 13
+        - id: cl3_ch13_t1  name: Collecting and organizing data  path: CBSE/Mathematics/Class 3/Chapter 13/Topic 1
+        - id: cl3_ch13_t2  name: Pictographs and bar graphs  path: CBSE/Mathematics/Class 3/Chapter 13/Topic 2
+        - id: cl3_ch13_t3  name: Reading and interpreting data  path: CBSE/Mathematics/Class 3/Chapter 13/Topic 3
+        - id: cl3_ch14_t1  name: Understanding money (rupees and paise)  path: CBSE/Mathematics/Class 3/Chapter 14/Topic 1
+        - id: cl3_ch14_t2  name: Addition and subtraction of money  path: CBSE/Mathematics/Class 3/Chapter 14/Topic 2
+        - id: cl3_ch14_t3  name: Simple transactions and word problems  path: CBSE/Mathematics/Class 3/Chapter 14/Topic 3
+    - id: cl4_maths  name: Mathematics Class 4  path: CBSE/Mathematics/Class 4
+      - id: cl4_ch1  name: Building with Bricks  path: CBSE/Mathematics/Class 4/Chapter 1
+        - id: cl4_ch1_t1  name: Understanding patterns using bricks  path: CBSE/Mathematics/Class 4/Chapter 1/Topic 1
+        - id: cl4_ch1_t2  name: Shapes and sizes of bricks  path: CBSE/Mathematics/Class 4/Chapter 1/Topic 2
+        - id: cl4_ch1_t3  name: Counting and arranging bricks in patterns  path: CBSE/Mathematics/Class 4/Chapter 1/Topic 3
+      - id: cl4_ch2  name: Long and Short  path: CBSE/Mathematics/Class 4/Chapter 2
+        - id: cl4_ch2_t1  name: Measuring length using standard units (cm, m)  path: CBSE/Mathematics/Class 4/Chapter 2/Topic 1
+        - id: cl4_ch2_t2  name: Comparing lengths  path: CBSE/Mathematics/Class 4/Chapter 2/Topic 2
+        - id: cl4_ch2_t3  name: Conversion between units  path: CBSE/Mathematics/Class 4/Chapter 2/Topic 3
+        - id: cl4_ch2_t4  name: Estimation of length  path: CBSE/Mathematics/Class 4/Chapter 2/Topic 4
+      - id: cl4_ch3  name: A Trip to Bhopal  path: CBSE/Mathematics/Class 4/Chapter 3
+        - id: cl4_ch3_t1  name: Practical use of numbers in real-life situations  path: CBSE/Mathematics/Class 4/Chapter 3/Topic 1
+        - id: cl4_ch3_t2  name: Estimation and calculation  path: CBSE/Mathematics/Class 4/Chapter 3/Topic 2
+        - id: cl4_ch3_t3  name: Understanding distances and travel-related math  path: CBSE/Mathematics/Class 4/Chapter 3/Topic 3
+      - id: cl4_ch4  name: Tick-Tick-Tick  path: CBSE/Mathematics/Class 4/Chapter 4
+        - id: cl4_ch4_t1  name: Reading time on analogue clocks  path: CBSE/Mathematics/Class 4/Chapter 4/Topic 1
+        - id: cl4_ch4_t2  name: Understanding hours, minutes, and seconds  path: CBSE/Mathematics/Class 4/Chapter 4/Topic 2
+        - id: cl4_ch4_t3  name: Time management basics  path: CBSE/Mathematics/Class 4/Chapter 4/Topic 3
+      - id: cl4_ch5  name: The Way The World Looks  path: CBSE/Mathematics/Class 4/Chapter 5
+        - id: cl4_ch5_t1  name: Recognizing 2D and 3D shapes  path: CBSE/Mathematics/Class 4/Chapter 5/Topic 1
+        - id: cl4_ch5_t2  name: Different perspectives and views of objects  path: CBSE/Mathematics/Class 4/Chapter 5/Topic 2
+        - id: cl4_ch5_t3  name: Shapes in the environment  path: CBSE/Mathematics/Class 4/Chapter 5/Topic 3
+      - id: cl4_ch6  name: The Junk Seller  path: CBSE/Mathematics/Class 4/Chapter 6
+        - id: cl4_ch6_t1  name: Basic buying and selling concepts  path: CBSE/Mathematics/Class 4/Chapter 6/Topic 1
+        - id: cl4_ch6_t2  name: Understanding money, earnings, and expenditure  path: CBSE/Mathematics/Class 4/Chapter 6/Topic 2
+        - id: cl4_ch6_t3  name: Simple transactions and loans  path: CBSE/Mathematics/Class 4/Chapter 6/Topic 3
+      - id: cl4_ch7  name: Jugs and Mugs  path: CBSE/Mathematics/Class 4/Chapter 7
+        - id: cl4_ch7_t1  name: Measuring liquid volume  path: CBSE/Mathematics/Class 4/Chapter 7/Topic 1
+        - id: cl4_ch7_t2  name: Units like litre and millilitre  path: CBSE/Mathematics/Class 4/Chapter 7/Topic 2
+        - id: cl4_ch7_t3  name: Conversion between units  path: CBSE/Mathematics/Class 4/Chapter 7/Topic 3
+      - id: cl4_ch8  name: Carts and Wheels  path: CBSE/Mathematics/Class 4/Chapter 8
+        - id: cl4_ch8_t1  name: Understanding circular shapes  path: CBSE/Mathematics/Class 4/Chapter 8/Topic 1
+        - id: cl4_ch8_t2  name: Introduction to circumference and diameter  path: CBSE/Mathematics/Class 4/Chapter 8/Topic 2
+        - id: cl4_ch8_t3  name: Real-life applications of circles  path: CBSE/Mathematics/Class 4/Chapter 8/Topic 3
+      - id: cl4_ch9  name: Halves and Quarters  path: CBSE/Mathematics/Class 4/Chapter 9
+        - id: cl4_ch9_t1  name: Introduction to fractions  path: CBSE/Mathematics/Class 4/Chapter 9/Topic 1
+        - id: cl4_ch9_t2  name: Understanding halves, quarters, and other fractions  path: CBSE/Mathematics/Class 4/Chapter 9/Topic 2
+        - id: cl4_ch9_t3  name: Representation of fractions visually  path: CBSE/Mathematics/Class 4/Chapter 9/Topic 3
+      - id: cl4_ch10  name: Play with Patterns  path: CBSE/Mathematics/Class 4/Chapter 10
+        - id: cl4_ch10_t1  name: Recognizing and creating number and shape patterns  path: CBSE/Mathematics/Class 4/Chapter 10/Topic 1
+        - id: cl4_ch10_t2  name: Developing observation skills through patterns  path: CBSE/Mathematics/Class 4/Chapter 10/Topic 2
+      - id: cl4_ch11  name: Tables and Shares  path: CBSE/Mathematics/Class 4/Chapter 11
+        - id: cl4_ch11_t1  name: Division and sharing equally  path: CBSE/Mathematics/Class 4/Chapter 11/Topic 1
+        - id: cl4_ch11_t2  name: Grouping objects into rows and columns  path: CBSE/Mathematics/Class 4/Chapter 11/Topic 2
+        - id: cl4_ch11_t3  name: Using multiplication tables in division  path: CBSE/Mathematics/Class 4/Chapter 11/Topic 3
+      - id: cl4_ch12  name: How Heavy? How Light?  path: CBSE/Mathematics/Class 4/Chapter 12
+        - id: cl4_ch12_t1  name: Measurement of weight  path: CBSE/Mathematics/Class 4/Chapter 12/Topic 1
+        - id: cl4_ch12_t2  name: Units like kilogram and gram  path: CBSE/Mathematics/Class 4/Chapter 12/Topic 2
+        - id: cl4_ch12_t3  name: Using balance scales and comparing weights  path: CBSE/Mathematics/Class 4/Chapter 12/Topic 3
+      - id: cl4_ch13  name: Fields and Fences  path: CBSE/Mathematics/Class 4/Chapter 13
+        - id: cl4_ch13_t1  name: Concept of perimeter and area  path: CBSE/Mathematics/Class 4/Chapter 13/Topic 1
+        - id: cl4_ch13_t2  name: Measuring fields and fences  path: CBSE/Mathematics/Class 4/Chapter 13/Topic 2
+        - id: cl4_ch13_t3  name: Practical applications of perimeter  path: CBSE/Mathematics/Class 4/Chapter 13/Topic 3
+      - id: cl4_ch14  name: Smart Charts 📊  path: CBSE/Mathematics/Class 4/Chapter 14
+        - id: cl4_ch14_t1  name: Collecting and organizing data  path: CBSE/Mathematics/Class 4/Chapter 14/Topic 1
+        - id: cl4_ch14_t2  name: Pictographs and bar graphs  path: CBSE/Mathematics/Class 4/Chapter 14/Topic 2
+        - id: cl4_ch14_t3  name: Reading and interpreting data charts  path: CBSE/Mathematics/Class 4/Chapter 14/Topic 3
+    - id: cl5_maths  name: Mathematics Class 5  path: CBSE/Mathematics/Class 5
+      - id: cl5_ch1  name: The Fish Tale  path: CBSE/Mathematics/Class 5/Chapter 1
+        - id: cl5_ch1_t1  name: Large Numbers in Real-Life Contexts  path: CBSE/Mathematics/Class 5/Chapter 1/Topic 1
+        - id: cl5_ch1_t2  name: Estimation and Rounding  path: CBSE/Mathematics/Class 5/Chapter 1/Topic 2
+        - id: cl5_ch1_t3  name: Multiplication and Division Word Problems  path: CBSE/Mathematics/Class 5/Chapter 1/Topic 3
+      - id: cl5_ch2  name: Shapes and Angles  path: CBSE/Mathematics/Class 5/Chapter 2
+        - id: cl5_ch2_t1  name: Identifying 2D Shapes  path: CBSE/Mathematics/Class 5/Chapter 2/Topic 1
+        - id: cl5_ch2_t2  name: Measuring Angles Using Protractors  path: CBSE/Mathematics/Class 5/Chapter 2/Topic 2
+        - id: cl5_ch2_t3  name: Types of Angles  path: CBSE/Mathematics/Class 5/Chapter 2/Topic 3
+      - id: cl5_ch3  name: How Many Squares?  path: CBSE/Mathematics/Class 5/Chapter 3
+        - id: cl5_ch3_t1  name: Calculating Area by Counting Squares  path: CBSE/Mathematics/Class 5/Chapter 3/Topic 1
+        - id: cl5_ch3_t2  name: Perimeter of Irregular Shapes  path: CBSE/Mathematics/Class 5/Chapter 3/Topic 2
+        - id: cl5_ch3_t3  name: Area of Irregular Shapes  path: CBSE/Mathematics/Class 5/Chapter 3/Topic 3
+      - id: cl5_ch4  name: Parts and Wholes  path: CBSE/Mathematics/Class 5/Chapter 4
+        - id: cl5_ch4_t1  name: Fractions as Parts of a Whole  path: CBSE/Mathematics/Class 5/Chapter 4/Topic 1
+        - id: cl5_ch4_t2  name: Equivalent Fractions  path: CBSE/Mathematics/Class 5/Chapter 4/Topic 2
+        - id: cl5_ch4_t3  name: Comparing Fractions  path: CBSE/Mathematics/Class 5/Chapter 4/Topic 3
+      - id: cl5_ch5  name: Does it Look the Same?  path: CBSE/Mathematics/Class 5/Chapter 5
+        - id: cl5_ch5_t1  name: Symmetry in Shapes and Letters  path: CBSE/Mathematics/Class 5/Chapter 5/Topic 1
+        - id: cl5_ch5_t2  name: Mirror Images  path: CBSE/Mathematics/Class 5/Chapter 5/Topic 2
+        - id: cl5_ch5_t3  name: Rotational Symmetry Basics  path: CBSE/Mathematics/Class 5/Chapter 5/Topic 3
+      - id: cl5_ch6  name: Be My Multiple, Ill Be Your Factor  path: CBSE/Mathematics/Class 5/Chapter 6
+        - id: cl5_ch6_t1  name: Multiples and Factors  path: CBSE/Mathematics/Class 5/Chapter 6/Topic 1
+        - id: cl5_ch6_t2  name: Divisibility Rules  path: CBSE/Mathematics/Class 5/Chapter 6/Topic 2
+        - id: cl5_ch6_t3  name: Prime and Composite Numbers  path: CBSE/Mathematics/Class 5/Chapter 6/Topic 3
+      - id: cl5_ch7  name: Can You See the Pattern?  path: CBSE/Mathematics/Class 5/Chapter 7
+        - id: cl5_ch7_t1  name: Number Patterns  path: CBSE/Mathematics/Class 5/Chapter 7/Topic 1
+        - id: cl5_ch7_t2  name: Shape Patterns  path: CBSE/Mathematics/Class 5/Chapter 7/Topic 2
+      - id: cl5_ch8  name: Mapping Your Way  path: CBSE/Mathematics/Class 5/Chapter 8
+        - id: cl5_ch8_t1  name: Reading Maps  path: CBSE/Mathematics/Class 5/Chapter 8/Topic 1
+        - id: cl5_ch8_t2  name: Calculating Real Distances  path: CBSE/Mathematics/Class 5/Chapter 8/Topic 2
+      - id: cl5_ch9  name: Boxes and Sketches  path: CBSE/Mathematics/Class 5/Chapter 9
+        - id: cl5_ch9_t1  name: 3D Shapes  path: CBSE/Mathematics/Class 5/Chapter 9/Topic 1
+        - id: cl5_ch9_t2  name: Drawing Nets of 3D Shapes  path: CBSE/Mathematics/Class 5/Chapter 9/Topic 2
+        - id: cl5_ch9_t3  name: Visualizing 3D Objects from 2D Sketches  path: CBSE/Mathematics/Class 5/Chapter 9/Topic 3
+      - id: cl5_ch10  name: Tenths and Hundredths  path: CBSE/Mathematics/Class 5/Chapter 10
+        - id: cl5_ch10_t1  name: Decimal Place Value  path: CBSE/Mathematics/Class 5/Chapter 10/Topic 1
+        - id: cl5_ch10_t2  name: Converting Fractions to Decimals  path: CBSE/Mathematics/Class 5/Chapter 10/Topic 2
+        - id: cl5_ch10_t3  name: Money-related Decimal Problems  path: CBSE/Mathematics/Class 5/Chapter 10/Topic 3
+      - id: cl5_ch11  name: Area and Its Boundary  path: CBSE/Mathematics/Class 5/Chapter 11
+        - id: cl5_ch11_t1  name: Formula for Area of Rectangles  path: CBSE/Mathematics/Class 5/Chapter 11/Topic 1
+        - id: cl5_ch11_t2  name: Practical Applications of Area  path: CBSE/Mathematics/Class 5/Chapter 11/Topic 2
+        - id: cl5_ch11_t3  name: Area and Boundary  path: CBSE/Mathematics/Class 5/Chapter 11/Topic 3
+      - id: cl5_ch12  name: Smart Charts  path: CBSE/Mathematics/Class 5/Chapter 12
+        - id: cl5_ch12_t1  name: Pictographs and Bar Graphs  path: CBSE/Mathematics/Class 5/Chapter 12/Topic 1
+        - id: cl5_ch12_t2  name: Line Graphs and Pie Charts  path: CBSE/Mathematics/Class 5/Chapter 12/Topic 2
+        - id: cl5_ch12_t3  name: Data Analysis and Interpretation  path: CBSE/Mathematics/Class 5/Chapter 12/Topic 3
+      - id: cl5_ch13  name: Ways to Multiply and Divide  path: CBSE/Mathematics/Class 5/Chapter 13
+        - id: cl5_ch13_t1  name: Lattice Multiplication  path: CBSE/Mathematics/Class 5/Chapter 13/Topic 1
+        - id: cl5_ch13_t2_qm1  name: Division Using Repeated Subtraction  path: CBSE/Mathematics/Class 5/Chapter 13/Topic 2
+      - id: cl5_ch14  name: How Big? How Heavy?  path: CBSE/Mathematics/Class 5/Chapter 14
+        - id: cl5_ch14_t1  name: Measuring Volume  path: CBSE/Mathematics/Class 5/Chapter 14/Topic 1
+        - id: cl5_ch14_t2  name: Measuring Length and Mass  path: CBSE/Mathematics/Class 5/Chapter 14/Topic 2
+        - id: cl5_ch14_t3  name: Metric Unit Conversions  path: CBSE/Mathematics/Class 5/Chapter 14/Topic 3
+      - id: cl5_ch15  name: Appendix – Mathematical Reasoning  path: CBSE/Mathematics/Class 5/Chapter 15
+        - id: cl5_ch15_t1  name: Logical Puzzles  path: CBSE/Mathematics/Class 5/Chapter 15/Topic 1
+        - id: cl5_ch15_t2  name: Deductive Reasoning Exercises  path: CBSE/Mathematics/Class 5/Chapter 15/Topic 2
+        - id: cl5_ch15_t3  name: Real-life Problem-solving Scenarios  path: CBSE/Mathematics/Class 5/Chapter 15/Topic 3
+      - id: cl5_ch16  name: Appendix – Fun with Numbers  path: CBSE/Mathematics/Class 5/Chapter 16
+        - id: cl5_ch16_t1  name: Number Games - Palindromic Numbers  path: CBSE/Mathematics/Class 5/Chapter 16/Topic 1
+        - id: cl5_ch16_t2  name: Cross-Number Puzzles  path: CBSE/Mathematics/Class 5/Chapter 16/Topic 2
+        - id: cl5_ch16_t3  name: Mental Math Tricks  path: CBSE/Mathematics/Class 5/Chapter 16/Topic 3
+      - id: cl5_ch17  name: Appendix – Practical Applications  path: CBSE/Mathematics/Class 5/Chapter 17
+        - id: cl5_ch17_t1  name: Budgeting and Money Management  path: CBSE/Mathematics/Class 5/Chapter 17/Topic 1
+        - id: cl5_ch17_t2  name: Measuring Ingredients in Recipes  path: CBSE/Mathematics/Class 5/Chapter 17/Topic 2
+        - id: cl5_ch17_t3  name: Time Management (Calendars, Schedules)  path: CBSE/Mathematics/Class 5/Chapter 17/Topic 3
+    - id: cl6_maths  name: Mathematics Class 6  path: CBSE/Mathematics/Class 6
+      - id: cl6_ch1  name: Knowing Our Numbers  path: CBSE/Mathematics/Class 6/Chapter 1
+        - id: cl6_ch1_t1  name: Comparing and Ordering 4-digit Numbers  path: CBSE/Mathematics/Class 6/Chapter 1/Topic 1
+        - id: cl6_ch1_t2  name: Estimation and Rounding  path: CBSE/Mathematics/Class 6/Chapter 1/Topic 2
+        - id: cl6_ch1_t3  name: Roman Numerals (up to 1,000)  path: CBSE/Mathematics/Class 6/Chapter 1/Topic 3
+        - id: cl6_ch1_t4  name: Large Numbers in Real-Life Contexts  path: CBSE/Mathematics/Class 6/Chapter 1/Topic 4
+      - id: cl6_ch2  name: Whole Numbers  path: CBSE/Mathematics/Class 6/Chapter 2
+        - id: cl6_ch2_t1  name: Properties of whole numbers  path: CBSE/Mathematics/Class 6/Chapter 2/Topic 1
+        - id: cl6_ch2_t2  name: Number Line Representation  path: CBSE/Mathematics/Class 6/Chapter 2/Topic 2
+        - id: cl6_ch2_t3  name: Successor, Predecessor, and Patterns  path: CBSE/Mathematics/Class 6/Chapter 2/Topic 3
+      - id: cl6_ch3  name: Playing With Numbers  path: CBSE/Mathematics/Class 6/Chapter 3
+        - id: cl6_ch3_t1  name: Factors, Multiples, HCF, LCM  path: CBSE/Mathematics/Class 6/Chapter 3/Topic 1
+        - id: cl6_ch3_t2  name: Prime and Composite Numbers  path: CBSE/Mathematics/Class 6/Chapter 3/Topic 2
+        - id: cl6_ch3_t3_q5  name:   path: CBSE/Mathematics/Class 6/Chapter 3/Topic 3
+        - id: cl6_ch3_t4  name: Prime Factorization  path: CBSE/Mathematics/Class 6/Chapter 3/Topic 4
+      - id: cl6_ch4  name: Basic Geometrical Ideas  path: CBSE/Mathematics/Class 6/Chapter 4
+        - id: cl6_ch4_t1  name: Points, Lines, Rays, and Segments  path: CBSE/Mathematics/Class 6/Chapter 4/Topic 1
+        - id: cl6_ch4_t2  name: Types of Angles (Acute, Obtuse, Right)  path: CBSE/Mathematics/Class 6/Chapter 4/Topic 2
+        - id: cl6_ch4_t3  name: Circles and Polygons  path: CBSE/Mathematics/Class 6/Chapter 4/Topic 3
+      - id: cl6_ch5  name: Understanding Elementary Shapes  path: CBSE/Mathematics/Class 6/Chapter 5
+        - id: cl6_ch5_t1  name: Triangles and quadrilaterals  path: CBSE/Mathematics/Class 6/Chapter 5/Topic 1
+        - id: cl6_ch5_t2  name: 3D Shapes  path: CBSE/Mathematics/Class 6/Chapter 5/Topic 2
+        - id: cl6_ch5_t3  name: Understanding Elementary Shapes  path: CBSE/Mathematics/Class 6/Chapter 5/Topic 3
+      - id: cl6_ch6  name: Integers  path: CBSE/Mathematics/Class 6/Chapter 6
+        - id: cl6_ch6_t1  name: Representation of Integers on a Number Line  path: CBSE/Mathematics/Class 6/Chapter 6/Topic 1
+        - id: cl6_ch6_t2  name: Addition and Subtraction of Integers  path: CBSE/Mathematics/Class 6/Chapter 6/Topic 2
+        - id: cl6_ch6_t3  name: Multiplication and Division of Integers  path: CBSE/Mathematics/Class 6/Chapter 6/Topic 3
+      - id: cl6_ch7  name: Fractions  path: CBSE/Mathematics/Class 6/Chapter 7
+        - id: cl6_ch7_t1  name: Types of Fractions  path: CBSE/Mathematics/Class 6/Chapter 7/Topic 1
+        - id: cl6_ch7_t2  name: Equivalent Fractions  path: CBSE/Mathematics/Class 6/Chapter 7/Topic 2
+        - id: cl6_ch7_t3  name: Addition and Subtraction of Fractions  path: CBSE/Mathematics/Class 6/Chapter 7/Topic 3
+      - id: cl6_ch8  name: Decimals  path: CBSE/Mathematics/Class 6/Chapter 8
+        - id: cl6_ch8_t1  name: Place Value in Decimals  path: CBSE/Mathematics/Class 6/Chapter 8/Topic 1
+        - id: cl6_ch8_t2  name: Addition and Subtraction of Decimals  path: CBSE/Mathematics/Class 6/Chapter 8/Topic 2
+        - id: cl6_ch8_t3  name: Conversion between Fractions and Decimals  path: CBSE/Mathematics/Class 6/Chapter 8/Topic 3
+      - id: cl6_ch9  name: Data Handling  path: CBSE/Mathematics/Class 6/Chapter 9
+        - id: cl6_ch9_t1  name: Pictographs and Bar Graphs  path: CBSE/Mathematics/Class 6/Chapter 9/Topic 1
+        - id: cl6_ch9_t2  name: Mean, Median, Mode (Basic Concepts)  path: CBSE/Mathematics/Class 6/Chapter 9/Topic 2
+        - id: cl6_ch9_t3  name: Interpretation of Charts  path: CBSE/Mathematics/Class 6/Chapter 9/Topic 3
+      - id: cl6_ch10  name: Mensuration  path: CBSE/Mathematics/Class 6/Chapter 10
+        - id: cl6_ch10_t1  name: Perimeter of Squares and Rectangles  path: CBSE/Mathematics/Class 6/Chapter 10/Topic 1
+        - id: cl6_ch10_t2  name: Area of Regular Shapes  path: CBSE/Mathematics/Class 6/Chapter 10/Topic 2
+        - id: cl6_ch10_t3  name: Practical Measurement Problems  path: CBSE/Mathematics/Class 6/Chapter 10/Topic 3
+      - id: cl6_ch11  name: Algebra  path: CBSE/Mathematics/Class 6/Chapter 11
+        - id: cl6_ch11_t1  name: Introduction to Variables  path: CBSE/Mathematics/Class 6/Chapter 11/Topic 1
+        - id: cl6_ch11_t2  name: Equations  path: CBSE/Mathematics/Class 6/Chapter 11/Topic 2
+        - id: cl6_ch11_t3  name: Practical Measurement Problems  path: CBSE/Mathematics/Class 6/Chapter 11/Topic 3
+      - id: cl6_ch12  name: Ratio and Proportion  path: CBSE/Mathematics/Class 6/Chapter 12
+        - id: cl6_ch12_t1  name: Simplifying Ratios  path: CBSE/Mathematics/Class 6/Chapter 12/Topic 1
+        - id: cl6_ch12_t2  name: Unitary Method  path: CBSE/Mathematics/Class 6/Chapter 12/Topic 2
+        - id: cl6_ch12_t3  name: Applications in Maps and Scales  path: CBSE/Mathematics/Class 6/Chapter 12/Topic 3
+      - id: cl6_ch13  name: Symmetry  path: CBSE/Mathematics/Class 6/Chapter 13
+        - id: cl6_ch13_t1  name: Line Symmetry in Shapes  path: CBSE/Mathematics/Class 6/Chapter 13/Topic 1
+        - id: cl6_ch13_t2  name: Mirror Reflection  path: CBSE/Mathematics/Class 6/Chapter 13/Topic 2
+        - id: cl6_ch13_t3  name: Rotational Symmetry  path: CBSE/Mathematics/Class 6/Chapter 13/Topic 3
+      - id: cl6_ch14  name: Practical Geometry  path: CBSE/Mathematics/Class 6/Chapter 14
+        - id: cl6_ch14_t1  name: Construction of Line Segments and Angles  path: CBSE/Mathematics/Class 6/Chapter 14/Topic 1
+        - id: cl6_ch14_t2  name: Drawing Circles with a Compass  path: CBSE/Mathematics/Class 6/Chapter 14/Topic 2
+        - id: cl6_ch14_t3  name: Perpendicular Bisectors  path: CBSE/Mathematics/Class 6/Chapter 14/Topic 3
+      - id: cl6_ch15  name: Appendix – Mathematical Reasoning  path: CBSE/Mathematics/Class 6/Chapter 15
+        - id: cl6_ch15_t1  name: Logical Puzzles  path: CBSE/Mathematics/Class 6/Chapter 15/Topic 1
+        - id: cl6_ch15_t2  name: Visual Puzzles and Patterns  path: CBSE/Mathematics/Class 6/Chapter 15/Topic 2
+        - id: cl6_ch15_t3  name: Real-life Problem-solving Scenarios  path: CBSE/Mathematics/Class 6/Chapter 15/Topic 3
+      - id: cl6_ch16  name: Appendix – Fun with Numbers  path: CBSE/Mathematics/Class 6/Chapter 16
+        - id: cl6_ch16_t1  name: Number Games (Palindromic Numbers)  path: CBSE/Mathematics/Class 6/Chapter 16/Topic 1
+        - id: cl6_ch16_t2  name: Cross-number Puzzles  path: CBSE/Mathematics/Class 6/Chapter 16/Topic 2
+        - id: cl6_ch16_t3  name: Mental Math Tricks  path: CBSE/Mathematics/Class 6/Chapter 16/Topic 3
+      - id: cl6_ch17  name: Appendix – Real-Life Applications  path: CBSE/Mathematics/Class 6/Chapter 17
+        - id: cl6_ch17_t1  name: Budgeting and Money Calculations  path: CBSE/Mathematics/Class 6/Chapter 17/Topic 1
+        - id: cl6_ch17_t2  name: Measuring Ingredients in Recipes  path: CBSE/Mathematics/Class 6/Chapter 17/Topic 2
+        - id: cl6_ch17_t3  name: Time Management (Calendars, Schedules)  path: CBSE/Mathematics/Class 6/Chapter 17/Topic 3
+    - id: cl7_maths  name: Mathematics Class 7  path: CBSE/Mathematics/Class 7
+      - id: cl7_ch1  name: Integers  path: CBSE/Mathematics/Class 7/Chapter 1
+        - id: cl7_ch1_t1  name: Operations: Addition, subtraction, multiplication, division  path: CBSE/Mathematics/Class 7/Chapter 1/Topic 1
+        - id: cl7_ch1_t2  name: Properties of Integers  path: CBSE/Mathematics/Class 7/Chapter 1/Topic 2
+        - id: cl7_ch1_t3  name: Applications: Real-life problems involving integers  path: CBSE/Mathematics/Class 7/Chapter 1/Topic 3
+      - id: cl7_ch2  name: Fractions and Decimals  path: CBSE/Mathematics/Class 7/Chapter 2
+        - id: cl7_ch2_t1  name: Multiplication and Division of Fractions and Decimals  path: CBSE/Mathematics/Class 7/Chapter 2/Topic 1
+        - id: cl7_ch2_t2  name: Properties and Operations of Fractions and Decimals  path: CBSE/Mathematics/Class 7/Chapter 2/Topic 2
+        - id: cl7_ch2_t3  name: Applications of Fractions and Decimals in Real Life  path: CBSE/Mathematics/Class 7/Chapter 2/Topic 3
+      - id: cl7_ch3  name: Data Handling  path: CBSE/Mathematics/Class 7/Chapter 3
+        - id: cl7_ch3_t1  name: Data Collection and Organization  path: CBSE/Mathematics/Class 7/Chapter 3/Topic 1
+        - id: cl7_ch3_t2  name: Mean, Median, Mode  path: CBSE/Mathematics/Class 7/Chapter 3/Topic 2
+      - id: cl7_ch4  name: Simple Equations  path: CBSE/Mathematics/Class 7/Chapter 4
+        - id: cl7_ch4_t1  name: Forming equations from real-life scenarios  path: CBSE/Mathematics/Class 7/Chapter 4/Topic 1
+        - id: cl7_ch4_t2  name:   path: CBSE/Mathematics/Class 7/Chapter 4/Topic 2
+        - id: cl7_ch4_t3  name: Basic probability concepts  path: CBSE/Mathematics/Class 7/Chapter 4/Topic 3
+      - id: cl7_ch5  name: Lines and Angles  path: CBSE/Mathematics/Class 7/Chapter 5
+        - id: cl7_ch5_t1  name: Types of Angles: Complementary, Supplementary, Adjacent  path: CBSE/Mathematics/Class 7/Chapter 5/Topic 1
+        - id: cl7_ch5_t2  name: Lines: intersecting, parallel, transversal  path: CBSE/Mathematics/Class 7/Chapter 5/Topic 2
+        - id: cl7_ch5_t3  name: Angle relationships: vertically opposite, linear pairs  path: CBSE/Mathematics/Class 7/Chapter 5/Topic 3
+      - id: cl7_ch6  name: The Triangle and Its Properties  path: CBSE/Mathematics/Class 7/Chapter 6
+        - id: cl7_ch6_t1  name: Types of Triangles: Scalene, Isosceles, Equilateral  path: CBSE/Mathematics/Class 7/Chapter 6/Topic 1
+        - id: cl7_ch6_t2  name: Properties: Angle Sum and Exterior Angles  path: CBSE/Mathematics/Class 7/Chapter 6/Topic 2
+        - id: cl7_ch6_t3  name: Pythagoras Theorem: Verification and Applications  path: CBSE/Mathematics/Class 7/Chapter 6/Topic 3
+      - id: cl7_ch7  name: Congruence of Triangles  path: CBSE/Mathematics/Class 7/Chapter 7
+        - id: cl7_ch7_t1  name: Criteria for Congruence of Triangles  path: CBSE/Mathematics/Class 7/Chapter 7/Topic 1
+        - id: cl7_ch7_t2  name: Applications and Proofs  path: CBSE/Mathematics/Class 7/Chapter 7/Topic 2
+      - id: cl7_ch8  name: Comparing Quantities  path: CBSE/Mathematics/Class 7/Chapter 8
+        - id: cl7_ch8_t1  name: Ratios and Proportions  path: CBSE/Mathematics/Class 7/Chapter 8/Topic 1
+        - id: cl7_ch8_t2  name: Percentages: conversion, profit/loss, simple interest  path: CBSE/Mathematics/Class 7/Chapter 8/Topic 2
+        - id: cl7_ch8_t3  name: Financial Literacy Applications  path: CBSE/Mathematics/Class 7/Chapter 8/Topic 3
+      - id: cl7_ch9  name: Rational Numbers  path: CBSE/Mathematics/Class 7/Chapter 9
+        - id: cl7_ch9_t2  name: Operations: addition, subtraction, multiplication, division  path: CBSE/Mathematics/Class 7/Chapter 9/Topic 2
+        - id: cl7_ch9_t3  name: Representation on the Number Line  path: CBSE/Mathematics/Class 7/Chapter 9/Topic 3
+      - id: cl7_ch10  name: Practical Geometry  path: CBSE/Mathematics/Class 7/Chapter 10
+        - id: cl7_ch10_t1  name: Construction of triangles (given sides/angles)  path: CBSE/Mathematics/Class 7/Chapter 10/Topic 1
+        - id: cl7_ch10_t2  name: Construction of Parallel Lines  path: CBSE/Mathematics/Class 7/Chapter 10/Topic 2
+        - id: cl7_ch10_t3  name: Use of compass, protractor, and ruler  path: CBSE/Mathematics/Class 7/Chapter 10/Topic 3
+      - id: cl7_ch11  name: Perimeter and Area  path: CBSE/Mathematics/Class 7/Chapter 11
+        - id: cl7_ch11_t1  name: Perimeter and area of squares, rectangles, parallelograms, triangles, circles  path: CBSE/Mathematics/Class 7/Chapter 11/Topic 1
+        - id: cl7_ch11_t2  name: Formulas and applications  path: CBSE/Mathematics/Class 7/Chapter 11/Topic 2
+        - id: cl7_ch11_t3  name: Real-life measurement problems  path: CBSE/Mathematics/Class 7/Chapter 11/Topic 3
+      - id: cl7_ch12  name: Algebraic Expressions  path: CBSE/Mathematics/Class 7/Chapter 12
+        - id: cl7_ch12_t1  name: Terms, Coefficients, Variables  path: CBSE/Mathematics/Class 7/Chapter 12/Topic 1
+        - id: cl7_ch12_t2  name: Addition and Subtraction of Expressions  path: CBSE/Mathematics/Class 7/Chapter 12/Topic 2
+        - id: cl7_ch12_t3  name: Framing Expressions from Word Problems  path: CBSE/Mathematics/Class 7/Chapter 12/Topic 3
+      - id: cl7_ch13  name: Exponents and Powers  path: CBSE/Mathematics/Class 7/Chapter 13
+        - id: cl7_ch13_t1  name: Laws of Exponents: product, quotient, power of a power  path: CBSE/Mathematics/Class 7/Chapter 13/Topic 1
+        - id: cl7_ch13_t2  name: Scientific Notation  path: CBSE/Mathematics/Class 7/Chapter 13/Topic 2
+        - id: cl7_ch13_t3  name: Expressing Large and Small Numbers  path: CBSE/Mathematics/Class 7/Chapter 13/Topic 3
+      - id: cl7_ch14  name: Symmetry  path: CBSE/Mathematics/Class 7/Chapter 14
+        - id: cl7_ch14_t1  name: Line Symmetry: Identifying Symmetrical Figures  path: CBSE/Mathematics/Class 7/Chapter 14/Topic 1
+        - id: cl7_ch14_t2  name:   path: CBSE/Mathematics/Class 7/Chapter 14/Topic 2
+      - id: cl7_ch15  name: Visualising Solid Shapes  path: CBSE/Mathematics/Class 7/Chapter 15
+        - id: cl7_ch15_t1  name: 3D Shapes: Faces, Edges, Vertices  path: CBSE/Mathematics/Class 7/Chapter 15/Topic 1
+        - id: cl7_ch15_t2  name: Nets of solids  path: CBSE/Mathematics/Class 7/Chapter 15/Topic 2
+        - id: cl7_ch15_t3  name: Views: Top, Front, Side  path: CBSE/Mathematics/Class 7/Chapter 15/Topic 3
+      - id: cl7_ch16  name: Appendix – Logical Reasoning and Puzzles  path: CBSE/Mathematics/Class 7/Chapter 16
+        - id: cl7_ch16_t1  name: Logical puzzles and brain teasers  path: CBSE/Mathematics/Class 7/Chapter 16/Topic 1
+        - id: cl7_ch16_t2  name: Pattern recognition  path: CBSE/Mathematics/Class 7/Chapter 16/Topic 2
+        - id: cl7_ch16_t3  name: Deductive reasoning exercises  path: CBSE/Mathematics/Class 7/Chapter 16/Topic 3
+      - id: cl7_ch17  name: Appendix – Number Games and Tricks  path: CBSE/Mathematics/Class 7/Chapter 17
+        - id: cl7_ch17_t1  name: Number patterns and sequences  path: CBSE/Mathematics/Class 7/Chapter 17/Topic 1
+        - id: cl7_ch17_t2  name: Mental math tricks  path: CBSE/Mathematics/Class 7/Chapter 17/Topic 2
+        - id: cl7_ch17_t3  name: Fun with numbers and puzzles  path: CBSE/Mathematics/Class 7/Chapter 17/Topic 3
+      - id: cl7_ch18  name: Appendix – Real-Life Applications  path: CBSE/Mathematics/Class 7/Chapter 18
+        - id: cl7_ch18_t1  name: Financial calculations: budgeting, interest  path: CBSE/Mathematics/Class 7/Chapter 18/Topic 1
+        - id: cl7_ch18_t2  name: Measurement in daily life  path: CBSE/Mathematics/Class 7/Chapter 18/Topic 2
+        - id: cl7_ch18_t3  name: Time management and scheduling  path: CBSE/Mathematics/Class 7/Chapter 18/Topic 3
+    - id: cl8_maths  name: Mathematics Class 8  path: CBSE/Mathematics/Class 8
+      - id: cl8_ch1  name: Rational Numbers 🔢  path: CBSE/Mathematics/Class 8/Chapter 1
+        - id: cl8_ch1_t1  name: Properties of rational numbers  path: CBSE/Mathematics/Class 8/Chapter 1/Topic 1
+        - id: cl8_ch1_t2  name: Operations: addition, subtraction, multiplication, division  path: CBSE/Mathematics/Class 8/Chapter 1/Topic 2
+        - id: cl8_ch1_t3  name: Representation on the number line  path: CBSE/Mathematics/Class 8/Chapter 1/Topic 3
+      - id: cl8_ch2  name: Linear Equations in One Variable ➗  path: CBSE/Mathematics/Class 8/Chapter 2
+        - id: cl8_ch2_t1  name: Solving linear equations  path: CBSE/Mathematics/Class 8/Chapter 2/Topic 1
+        - id: cl8_ch2_t2  name: Applications in word problems  path: CBSE/Mathematics/Class 8/Chapter 2/Topic 2
+        - id: cl8_ch2_t3  name: Reducing equations to simpler forms  path: CBSE/Mathematics/Class 8/Chapter 2/Topic 3
+      - id: cl8_ch3  name: Understanding Quadrilaterals 📐  path: CBSE/Mathematics/Class 8/Chapter 3
+        - id: cl8_ch3_t1  name: Types of quadrilaterals  path: CBSE/Mathematics/Class 8/Chapter 3/Topic 1
+        - id: cl8_ch3_t2  name: Properties of parallelograms, rectangles, rhombus, square  path: CBSE/Mathematics/Class 8/Chapter 3/Topic 2
+        - id: cl8_ch3_t3  name: Angle sum property of polygons  path: CBSE/Mathematics/Class 8/Chapter 3/Topic 3
+      - id: cl8_ch4  name: Data Handling 📊  path: CBSE/Mathematics/Class 8/Chapter 4
+        - id: cl8_ch4_t1  name: Organizing data using tables  path: CBSE/Mathematics/Class 8/Chapter 4/Topic 1
+        - id: cl8_ch4_t2  name: Bar graphs, pie charts  path: CBSE/Mathematics/Class 8/Chapter 4/Topic 2
+        - id: cl8_ch4_t3  name: Basic probability concepts  path: CBSE/Mathematics/Class 8/Chapter 4/Topic 3
+      - id: cl8_ch5  name: Squares and Square Roots √  path: CBSE/Mathematics/Class 8/Chapter 5
+        - id: cl8_ch5_t1  name: Finding squares and square roots  path: CBSE/Mathematics/Class 8/Chapter 5/Topic 1
+        - id: cl8_ch5_t2  name: Methods: prime factorization, division method  path: CBSE/Mathematics/Class 8/Chapter 5/Topic 2
+        - id: cl8_ch5_t3  name: Estimation of square roots  path: CBSE/Mathematics/Class 8/Chapter 5/Topic 3
+      - id: cl8_ch6  name: Cubes and Cube Roots ∛  path: CBSE/Mathematics/Class 8/Chapter 6
+        - id: cl8_ch6_t1  name: Perfect cubes and cube roots  path: CBSE/Mathematics/Class 8/Chapter 6/Topic 1
+        - id: cl8_ch6_t2  name: Methods to find cube roots  path: CBSE/Mathematics/Class 8/Chapter 6/Topic 2
+        - id: class8_ch6_topic3  name: Applications in volume calculations  path: CBSE/Mathematics/Class 8/Chapter 6/Topic 3
+      - id: cl8_ch7  name: Comparing Quantities 💰  path: CBSE/Mathematics/Class 8/Chapter 7
+        - id: cl8_ch7_t1  name: Ratios and percentages  path: CBSE/Mathematics/Class 8/Chapter 7/Topic 1
+        - id: cl8_ch7_t2  name: Profit and loss, discount, sales tax  path: CBSE/Mathematics/Class 8/Chapter 7/Topic 2
+        - id: cl8_ch7_t3  name: Simple and compound interest  path: CBSE/Mathematics/Class 8/Chapter 7/Topic 3
+      - id: cl8_ch8  name: Algebraic Expressions and Identities ∑  path: CBSE/Mathematics/Class 8/Chapter 8
+        - id: cl8_ch8_t1  name: Terms, coefficients, constants  path: CBSE/Mathematics/Class 8/Chapter 8/Topic 1
+        - id: cl8_ch8_t2  name: Addition, Subtraction, Multiplication of Expressions  path: CBSE/Mathematics/Class 8/Chapter 8/Topic 2
+        - id: q.id  name: Standard algebraic identities  path: CBSE/Mathematics/Class 8/Chapter 8/Topic 3
+      - id: cl8_ch9  name: Mensuration 📏  path: CBSE/Mathematics/Class 8/Chapter 9
+        - id: cl8_ch9_t1  name: Surface area and volume of cubes, cuboids, cylinders  path: CBSE/Mathematics/Class 8/Chapter 9/Topic 1
+        - id: cl8_ch9_t2  name: Area of trapezium and other polygons  path: CBSE/Mathematics/Class 8/Chapter 9/Topic 2
+        - id: cl8_ch9_t3  name: Practical measurement problems  path: CBSE/Mathematics/Class 8/Chapter 9/Topic 3
+      - id: cl8_ch10  name: Exponents and Powers 10ⁿ  path: CBSE/Mathematics/Class 8/Chapter 10
+        - id: cl8_ch10_t1  name: Laws of exponents  path: CBSE/Mathematics/Class 8/Chapter 10/Topic 1
+        - id: cl8_ch10_t2  name: Scientific Notation  path: CBSE/Mathematics/Class 8/Chapter 10/Topic 2
+        - id: cl8_ch10_t3  name: Negative Exponents  path: CBSE/Mathematics/Class 8/Chapter 10/Topic 3
+      - id: cl8_ch11  name: Direct and Inverse Proportions ⚖️  path: CBSE/Mathematics/Class 8/Chapter 11
+        - id: cl8_ch11_t1  name: Understanding direct proportion  path: CBSE/Mathematics/Class 8/Chapter 11/Topic 1
+        - id: cl8_ch11_t2  name: Understanding inverse proportion  path: CBSE/Mathematics/Class 8/Chapter 11/Topic 2
+        - id: cl8_ch11_t3  name: Solving related problems  path: CBSE/Mathematics/Class 8/Chapter 11/Topic 3
+      - id: cl8_ch12  name: Factorisation 🔍  path: CBSE/Mathematics/Class 8/Chapter 12
+        - id: cl8_ch12_t1  name: Methods of factorisation  path: CBSE/Mathematics/Class 8/Chapter 12/Topic 1
+        - id: cl8_ch12_t2  name: Factorising algebraic expressions  path: CBSE/Mathematics/Class 8/Chapter 12/Topic 2
+        - id: cl8_ch12_t3  name: Division of Algebraic Expressions  path: CBSE/Mathematics/Class 8/Chapter 12/Topic 3
+      - id: cl8_ch13  name: Introduction to Graphs 📈  path: CBSE/Mathematics/Class 8/Chapter 13
+        - id: cl8_ch13_t1  name: Types of graphs  path: CBSE/Mathematics/Class 8/Chapter 13/Topic 1
+        - id: cl8_ch13_t2  name: Plotting points on Cartesian plane  path: CBSE/Mathematics/Class 8/Chapter 13/Topic 2
+        - id: cl8_ch13_t3  name: Reading and interpreting graphs  path: CBSE/Mathematics/Class 8/Chapter 13/Topic 3
+      - id: cl8_ch14  name: Playing with Numbers 🎲  path: CBSE/Mathematics/Class 8/Chapter 14
+        - id: cl8_ch14_t1  name: Number puzzles and patterns  path: CBSE/Mathematics/Class 8/Chapter 14/Topic 1
+        - id: cl8_ch14_t2  name: Divisibility tests  path: CBSE/Mathematics/Class 8/Chapter 14/Topic 2
+        - id: cl8_ch14_t3  name: Properties of numbers  path: CBSE/Mathematics/Class 8/Chapter 14/Topic 3
+      - id: cl8_ch15  name: Logical Reasoning and Puzzles 🧩  path: CBSE/Mathematics/Class 8/Chapter 15
+        - id: cl8_ch15_t1  name: Logical puzzles and brain teasers  path: CBSE/Mathematics/Class 8/Chapter 15/Topic 1
+        - id: cl8_ch15_t2  name: Pattern recognition exercises  path: CBSE/Mathematics/Class 8/Chapter 15/Topic 2
+        - id: cl8_ch15_t3  name: Deductive reasoning  path: CBSE/Mathematics/Class 8/Chapter 15/Topic 3
+      - id: cl8_ch16  name: Number Games and Tricks 🎯  path: CBSE/Mathematics/Class 8/Chapter 16
+        - id: cl8_ch16_t1  name: Mental Math Tricks  path: CBSE/Mathematics/Class 8/Chapter 16/Topic 1
+        - id: cl8_ch16_t2  name: Number sequences and patterns  path: CBSE/Mathematics/Class 8/Chapter 16/Topic 2
+        - id: cl8_ch16_t3  name: Fun with numbers  path: CBSE/Mathematics/Class 8/Chapter 16/Topic 3
+      - id: cl8_ch17  name: Real-Life Applications 🌍  path: CBSE/Mathematics/Class 8/Chapter 17
+        - id: cl8_ch17_t1  name: Financial calculations: budgeting, interest  path: CBSE/Mathematics/Class 8/Chapter 17/Topic 1
+        - id: cl8_ch17_t2  name: Measurement in daily life  path: CBSE/Mathematics/Class 8/Chapter 17/Topic 2
+        - id: cl8_ch17_t3  name: Time management and scheduling  path: CBSE/Mathematics/Class 8/Chapter 17/Topic 3
+    - id: cl9  name: Mathematics Class 9  path: CBSE/Mathematics/Class 9
+      - id: cl9_ch1  name: Number Systems  path: CBSE/Mathematics/Class 9/Chapter 1
+        - id: cl9_ch1_t1  name: Introduction to Number Systems  path: CBSE/Mathematics/Class 9/Chapter 1/Topic 1
+        - id: cl9_ch1_t2  name: Irrational Numbers  path: CBSE/Mathematics/Class 9/Chapter 1/Topic 2
+        - id: cl9_ch1_t3  name: Real Numbers and their Decimal Expansions  path: CBSE/Mathematics/Class 9/Chapter 1/Topic 3
+        - id: cl9_ch1_t4  name: Operations on Real Numbers  path: CBSE/Mathematics/Class 9/Chapter 1/Topic 4
+        - id: cl9_ch1_t5  name: Laws of Exponents for Real Numbers  path: CBSE/Mathematics/Class 9/Chapter 1/Topic 5
+        - id: cl9_ch1_t6  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 1/Topic 6
+      - id: cl9_ch2_q3  name: Polynomials  path: CBSE/Mathematics/Class 9/Chapter 2
+        - id: cl9_ch2_t1  name: Introduction  path: CBSE/Mathematics/Class 9/Chapter 2/Topic 1
+        - id: cl9_ch2_t2  name: Polynomials in One Variable  path: CBSE/Mathematics/Class 9/Chapter 2/Topic 2
+        - id: cl9_ch2_t3  name: Zeroes of a Polynomial  path: CBSE/Mathematics/Class 9/Chapter 2/Topic 3
+        - id: cl9_ch2_t4  name: Operations on Polynomials  path: CBSE/Mathematics/Class 9/Chapter 2/Topic 4
+        - id: cl9_ch2_t5  name: Algebraic Identities  path: CBSE/Mathematics/Class 9/Chapter 2/Topic 5
+        - id: cl9_ch2_t6  name: Factorisation of Polynomials  path: CBSE/Mathematics/Class 9/Chapter 2/Topic 6
+        - id: cl9_ch2_t7  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 2/Topic 7
+      - id: cl9_ch3_q1  name: Coordinate Geometry  path: CBSE/Mathematics/Class 9/Chapter 3
+        - id: cl9_ch3_t1  name: Understanding the Cartesian Plane  path: CBSE/Mathematics/Class 9/Chapter 3/Topic 1
+        - id: cl9_ch3_t2  name: Cartesian System  path: CBSE/Mathematics/Class 9/Chapter 3/Topic 2
+        - id: cl9_ch3_t3  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 3/Topic 3
+      - id: cl9_ch4  name: Linear Equations in Two Variables  path: CBSE/Mathematics/Class 9/Chapter 4
+        - id: cl9_ch4_t1  name: Introduction to Linear Equations in Two Variables  path: CBSE/Mathematics/Class 9/Chapter 4/Topic 1
+        - id: cl9_ch4_t2  name: Linear Equations  path: CBSE/Mathematics/Class 9/Chapter 4/Topic 2
+        - id: cl9_ch4_t3  name: Solution of a Linear Equation  path: CBSE/Mathematics/Class 9/Chapter 4/Topic 3
+        - id: cl9_ch4_t4  name: Summary of Linear Equations in Two Variables  path: CBSE/Mathematics/Class 9/Chapter 4/Topic 4
+      - id: cl9_ch5  name: Introduction to Euclids Geometry  path: CBSE/Mathematics/Class 9/Chapter 5
+        - id: cl9_ch5_t1  name: Introduction to Euclids Geometry  path: CBSE/Mathematics/Class 9/Chapter 5/Topic 1
+        - id: cl9_ch5_t2  name: Euclids Definitions, Axioms and Postulates  path: CBSE/Mathematics/Class 9/Chapter 5/Topic 2
+        - id: cl9_ch5_t3  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 5/Topic 3
+      - id: cl9_ch6  name: Lines and Angles  path: CBSE/Mathematics/Class 9/Chapter 6
+        - id: cl9_ch6_t1  name: Introduction to Lines and Angles  path: CBSE/Mathematics/Class 9/Chapter 6/Topic 1
+        - id: cl9_ch6_t2  name: Basic Terms and Definitions  path: CBSE/Mathematics/Class 9/Chapter 6/Topic 2
+        - id: cl9_ch6_t3  name: Intersecting Lines and Non-intersecting Lines  path: CBSE/Mathematics/Class 9/Chapter 6/Topic 3
+        - id: cl9_ch6_t4  name: Pairs of Angles  path: CBSE/Mathematics/Class 9/Chapter 6/Topic 4
+        - id: cl9_ch6_t5  name: Lines Parallel to the Same Line  path: CBSE/Mathematics/Class 9/Chapter 6/Topic 5
+        - id: cl9_ch6_t6  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 6/Topic 6
+      - id: cl9_ch7  name: Triangles  path: CBSE/Mathematics/Class 9/Chapter 7
+        - id: cl9_ch7_t1  name: Introduction to Triangles  path: CBSE/Mathematics/Class 9/Chapter 7/Topic 1
+        - id: cl9_ch7_t2  name: Congruence of Triangles  path: CBSE/Mathematics/Class 9/Chapter 7/Topic 2
+        - id: cl9_ch7_t3  name: Criteria for Congruence of Triangles  path: CBSE/Mathematics/Class 9/Chapter 7/Topic 3
+        - id: cl9_ch7_t4  name: Some Properties of a Triangle  path: CBSE/Mathematics/Class 9/Chapter 7/Topic 4
+        - id: cl9_ch7_t5  name: Some More Criteria for Congruence  path: CBSE/Mathematics/Class 9/Chapter 7/Topic 5
+        - id: cl9_ch7_t6  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 7/Topic 6
+      - id: cl9_ch8  name: Quadrilaterals  path: CBSE/Mathematics/Class 9/Chapter 8
+        - id: cl9_ch8_t1  name: Properties of a Parallelogram  path: CBSE/Mathematics/Class 9/Chapter 8/Topic 1
+        - id: cl9_ch8_t2  name: The Mid-point Theorem  path: CBSE/Mathematics/Class 9/Chapter 8/Topic 2
+        - id: cl9_ch8_t3  name: Summary of Quadrilaterals  path: CBSE/Mathematics/Class 9/Chapter 8/Topic 3
+        - id: cl9_ch8_t4  name: Summary of Quadrilaterals  path: CBSE/Mathematics/Class 9/Chapter 8/Topic 4
+        - id: cl9_ch8_t5  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 8/Topic 5
+        - id: cl9_ch8_t6  name: Summary of Quadrilaterals  path: CBSE/Mathematics/Class 9/Chapter 8/Topic 6
+      - id: cl9_ch9  name: Circles  path: CBSE/Mathematics/Class 9/Chapter 9
+        - id: cl9_ch9_t1  name: Angle Subtended by a Chord at a Point  path: CBSE/Mathematics/Class 9/Chapter 9/Topic 1
+        - id: cl9_ch9_t2  name: Perpendicular from the Centre to a Chord  path: CBSE/Mathematics/Class 9/Chapter 9/Topic 2
+        - id: cl9_ch9_t3  name: Equal Chords and their Distances from the Centre  path: CBSE/Mathematics/Class 9/Chapter 9/Topic 3
+        - id: cl9_ch9_t4  name: Angle Subtended by an Arc of a Circle  path: CBSE/Mathematics/Class 9/Chapter 9/Topic 4
+        - id: cl9_ch9_t5  name: Cyclic Quadrilaterals  path: CBSE/Mathematics/Class 9/Chapter 9/Topic 5
+        - id: cl9_ch9_t6  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 9/Topic 6
+      - id: cl9_ch10  name: Herons Formula  path: CBSE/Mathematics/Class 9/Chapter 10
+        - id: cl9_ch10_t1  name: Area of a Triangle – by Herons Formula  path: CBSE/Mathematics/Class 9/Chapter 10/Topic 1
+        - id: cl9_ch10_t2  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 10/Topic 2
+      - id: cl9_ch11  name: Surface Areas and Volumes  path: CBSE/Mathematics/Class 9/Chapter 11
+        - id: cl9_ch11_t1  name: Surface Area of a Right Circular Cone  path: CBSE/Mathematics/Class 9/Chapter 11/Topic 1
+        - id: cl9_ch11_t2  name: Surface Area of a Sphere  path: CBSE/Mathematics/Class 9/Chapter 11/Topic 2
+        - id: cl9_ch11_t3  name: Volume of a Right Circular Cone  path: CBSE/Mathematics/Class 9/Chapter 11/Topic 3
+        - id: cl9_ch11_t4  name: Volume of a Sphere  path: CBSE/Mathematics/Class 9/Chapter 11/Topic 4
+        - id: cl9_ch11_t5  name: Summary of Surface Areas and Volumes  path: CBSE/Mathematics/Class 9/Chapter 11/Topic 5
+      - id: cl9_ch12  name: Statistics  path: CBSE/Mathematics/Class 9/Chapter 12
+        - id: cl9_ch12_t1  name: Graphical Representation of Data  path: CBSE/Mathematics/Class 9/Chapter 12/Topic 1
+        - id: cl9_ch12_t2  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 12/Topic 2
+      - id: cl9_ch13  name: Appendix: Proofs in Mathematics  path: CBSE/Mathematics/Class 9/Chapter 13
+        - id: cl9_ch13_t2  name: Mathematically Acceptable Statements  path: CBSE/Mathematics/Class 9/Chapter 13/Topic 2
+        - id: cl9_ch13_t3  name: Deductive Reasoning  path: CBSE/Mathematics/Class 9/Chapter 13/Topic 3
+        - id: cl9_ch13_t4  name: Theorems, Conjectures and Axioms  path: CBSE/Mathematics/Class 9/Chapter 13/Topic 4
+        - id: cl9_ch13_t5  name: What is a Mathematical Proof?  path: CBSE/Mathematics/Class 9/Chapter 13/Topic 5
+        - id: cl9_ch13_t6  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 13/Topic 6
+      - id: cl9_ch14  name: Appendix: Introduction to Mathematical Modelling  path: CBSE/Mathematics/Class 9/Chapter 14
+        - id: cl9_ch14_t1  name: Introduction to Mathematical Modelling  path: CBSE/Mathematics/Class 9/Chapter 14/Topic 1
+        - id: cl9_ch14_t2  name: Review of Word Problems  path: CBSE/Mathematics/Class 9/Chapter 14/Topic 2
+        - id: cl9_ch14_t3  name: Some Mathematical Models  path: CBSE/Mathematics/Class 9/Chapter 14/Topic 3
+        - id: cl9_ch14_t4  name: The Process of Modelling – Its Advantages and Limitations  path: CBSE/Mathematics/Class 9/Chapter 14/Topic 4
+        - id: cl9_ch14_t5  name: Summary  path: CBSE/Mathematics/Class 9/Chapter 14/Topic 5
+    - id: cl10  name: Mathematics Class 10  path: CBSE/Mathematics/Class 10
+      - id: generateId()  name: Real Numbers  path: CBSE/Mathematics/Class 10/Chapter 1
+        - id: cl10_ch1_t1  name: Euclids Division Lemma  path: CBSE/Mathematics/Class 10/Chapter 1/Topic 1
+        - id: cl10_ch1_t2  name: Fundamental theorem of arithmetic  path: CBSE/Mathematics/Class 10/Chapter 1/Topic 2
+        - id: cl10_ch1_t3  name: Revisiting irrational numbers  path: CBSE/Mathematics/Class 10/Chapter 1/Topic 3
+        - id: cl10_ch1_t4  name: Decimal expansions of rational numbers  path: CBSE/Mathematics/Class 10/Chapter 1/Topic 4
+        - id: cl10_ch2_t1  name: Zeros of a polynomial  path: CBSE/Mathematics/Class 10/Chapter 2/Topic 1
+        - id: cl10_ch2_t2  name: Relationship between zeros and coefficients  path: CBSE/Mathematics/Class 10/Chapter 2/Topic 2
+        - id: cl10_ch2_t3  name: Division Algorithm for Polynomials  path: CBSE/Mathematics/Class 10/Chapter 2/Topic 3
+        - id: cl10_ch3_t1  name: Graphical method of solution  path: CBSE/Mathematics/Class 10/Chapter 3/Topic 1
+        - id: cl10_ch3_t2  name: Algebraic methods: substitution, elimination, cross-multiplication  path: CBSE/Mathematics/Class 10/Chapter 3/Topic 2
+        - id: cl10_ch3_t3  name: Applications in real-life problems  path: CBSE/Mathematics/Class 10/Chapter 3/Topic 3
+        - id: cl10_ch4_t1  name: Standard form of quadratic equations  path: CBSE/Mathematics/Class 10/Chapter 4/Topic 1
+        - id: cl10_ch4_t2  name: Solutions by factorization and quadratic formula  path: CBSE/Mathematics/Class 10/Chapter 4/Topic 2
+        - id: cl10_ch4_t3  name: Nature of roots  path: CBSE/Mathematics/Class 10/Chapter 4/Topic 3
+        - id: cl10_ch5_t1  name: Definition and general term  path: CBSE/Mathematics/Class 10/Chapter 5/Topic 1
+        - id: cl10_ch5_t2  name: Sum of first n terms  path: CBSE/Mathematics/Class 10/Chapter 5/Topic 2
+        - id: cl10_ch5_t3  name: Applications in daily life  path: CBSE/Mathematics/Class 10/Chapter 5/Topic 3
+        - id: cl10_ch6_t1  name: Similarity of triangles  path: CBSE/Mathematics/Class 10/Chapter 6/Topic 1
+        - id: cl10_ch6_t2  name: Criteria for similarity (AA, SAS, SSS)  path: CBSE/Mathematics/Class 10/Chapter 6/Topic 2
+        - id: cl10_ch6_t3  name: Areas of similar triangles  path: CBSE/Mathematics/Class 10/Chapter 6/Topic 3
+        - id: cl10_ch6_t4  name: Pythagoras theorem and its converse  path: CBSE/Mathematics/Class 10/Chapter 6/Topic 4
+        - id: cl10_ch7_t1  name: Distance formula  path: CBSE/Mathematics/Class 10/Chapter 7/Topic 1
+        - id: cl10_ch7_t2  name: Section Formula  path: CBSE/Mathematics/Class 10/Chapter 7/Topic 2
+        - id: cl10_ch7_t3  name: Area of triangle using coordinates  path: CBSE/Mathematics/Class 10/Chapter 7/Topic 3
+        - id: cl10_ch8_t1  name: Trigonometric Ratios  path: CBSE/Mathematics/Class 10/Chapter 8/Topic 1
+        - id: cl10_ch8_t2  name: Trigonometric Identities  path: CBSE/Mathematics/Class 10/Chapter 8/Topic 2
+        - id: cl10_ch8_t3  name: Heights and Distances  path: CBSE/Mathematics/Class 10/Chapter 8/Topic 3
+        - id: cl10_ch9_t1  name: Problems on heights and distances  path: CBSE/Mathematics/Class 10/Chapter 9/Topic 1
+        - id: cl10_ch9_t2  name: Number of tangents from a point to a circle  path: CBSE/Mathematics/Class 10/Chapter 9/Topic 2
+        - id: cl10_ch9_t3  name: Problems on Heights and Distances  path: CBSE/Mathematics/Class 10/Chapter 9/Topic 3
+        - id: cl10_ch10_t1  name: Tangent to a circle  path: CBSE/Mathematics/Class 10/Chapter 10/Topic 1
+        - id: cl10_ch10_t2  name: Number of tangents from a point to a circle  path: CBSE/Mathematics/Class 10/Chapter 10/Topic 2
+        - id: cl10_ch10_t3  name: Properties of tangents  path: CBSE/Mathematics/Class 10/Chapter 10/Topic 3
+        - id: cl10_ch11_t1  name: Division of a line segment  path: CBSE/Mathematics/Class 10/Chapter 11/Topic 1
+        - id: cl10_ch11_t2  name: Construction of tangents to a circle  path: CBSE/Mathematics/Class 10/Chapter 11/Topic 2
+        - id: cl10_ch12_t1  name: Area and perimeter of circles  path: CBSE/Mathematics/Class 10/Chapter 12/Topic 1
+        - id: cl10_ch12_t2  name: Areas of Sectors and Segments  path: CBSE/Mathematics/Class 10/Chapter 12/Topic 2
+        - id: cl10_ch13_t1  name: Surface areas and volumes of cubes, cuboids, spheres, cylinders, cones  path: CBSE/Mathematics/Class 10/Chapter 13/Topic 1
+        - id: cl10_ch13_t2  name: Combination of solids  path: CBSE/Mathematics/Class 10/Chapter 13/Topic 2
+        - id: cl10_ch13_t3  name: Combination of solids  path: CBSE/Mathematics/Class 10/Chapter 13/Topic 3
+        - id: cl10_ch14_t1  name: Mean, median, mode  path: CBSE/Mathematics/Class 10/Chapter 14/Topic 1
+        - id: cl10_ch14_t2  name: Cumulative Frequency Graphs  path: CBSE/Mathematics/Class 10/Chapter 14/Topic 2
+        - id: cl10_ch15_t1  name: Experimental Probability  path: CBSE/Mathematics/Class 10/Chapter 15/Topic 1
+        - id: cl10_ch15_t2  name: Simple problems on probability  path: CBSE/Mathematics/Class 10/Chapter 15/Topic 2
+        - id: cl10_ch16_t1  name: Coordinates  path: CBSE/Mathematics/Class 10/Chapter 16/Topic 1
+        - id: cl10_ch16_t2  name: Probability and Statistics  path: CBSE/Mathematics/Class 10/Chapter 16/Topic 2
+        - id: cl10_ch16_t3  name: Deductive Reasoning Exercises  path: CBSE/Mathematics/Class 10/Chapter 16/Topic 3
+        - id: cl10_ch17_t1  name: Number properties and patterns  path: CBSE/Mathematics/Class 10/Chapter 17/Topic 1
+        - id: cl10_ch17_t2  name: Mental math strategies  path: CBSE/Mathematics/Class 10/Chapter 17/Topic 2
+        - id: cl10_ch17_t3  name: Fun with Numbers  path: CBSE/Mathematics/Class 10/Chapter 17/Topic 3
+        - id: cl10_ch18_t1  name: Financial literacy: budgeting, interest calculations  path: CBSE/Mathematics/Class 10/Chapter 18/Topic 1
+        - id: cl10_ch18_t2  name: Mental math strategies  path: CBSE/Mathematics/Class 10/Chapter 18/Topic 2
+        - id: cl10_ch18_t3  name: Time management and scheduling  path: CBSE/Mathematics/Class 10/Chapter 18/Topic 3
+    - id: cl11_maths  name: Mathematics Class 11  path: CBSE/Mathematics/Class 11
+    - id: cl12_maths  name: Mathematics Class 12  path: CBSE/Mathematics/Class 12
