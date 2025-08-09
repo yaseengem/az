@@ -7,12 +7,20 @@ import { theme } from '../components/theme';
 export default function HomeScreen() {
     const router = useRouter();
 
-    useEffect(() => {
-        router.replace('/chats');
-    }, []);
+    // Remove the circular redirect - this component should render normally
+    // useEffect(() => {
+    //     router.replace('/');
+    // }, []);
 
 
-    return <View style={styles.container} />;
+    return (
+        <View style={styles.container}>
+            <View style={styles.header}>
+                <Text style={styles.title}>Welcome to the App</Text>
+                <Text style={styles.subtitle}>Your learning companion</Text>
+            </View>
+        </View>
+    );
 }
 
 const { width } = Dimensions.get('window');

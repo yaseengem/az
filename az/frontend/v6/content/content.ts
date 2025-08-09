@@ -1,6 +1,5 @@
 // Main content aggregation file
 import { CBSEContent } from './CBSE/content';
-import { experts } from './experts_list';
 // Import additional syllabuses as they're created
 // import { AustralianContent } from './Australian/content';
 
@@ -23,8 +22,6 @@ export const content = {
     CBSE: CBSEContent,
     // Australian: AustralianContent,
 
-    // Additional content
-    experts
 };
 
 // Helper function to get syllabus content

@@ -37,9 +37,11 @@ export default function SplashScreen() {
                     if (hasAcceptedTerms !== 'true') {
                         router.replace('/terms' as any);
                     } else if (hasCompletedProfile === 'true') {
-                        router.replace('/(app)/chats');
+                        router.replace('/(app)');
                     } else {
-                        router.replace('/(app)/profile');
+                        // If terms are accepted but profile is not completed,
+                        // navigate to the main app (which should handle profile setup)
+                        router.replace('/(app)');
                     }
                 }, 1000);
 
