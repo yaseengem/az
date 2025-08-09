@@ -12,8 +12,4 @@ export const all_content = {
 
 };
 
-
-
-
-
 export default all_content;
